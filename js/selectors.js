@@ -16,5 +16,5 @@ function divSelector(){
 }
 
 function firsListItem(){
-  return $('#pic-list li:first-child')
+  return $('ul li:first-child')
 }
